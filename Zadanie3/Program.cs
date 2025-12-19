@@ -2,11 +2,11 @@
 Console.WriteLine("Podaj kolejno liczby całkowite i zakończ 0");
 try
 {
-    int[] tablica = [];
+    int[] tablica = new int[0];
     int i = 1;
     while (true)
     {
-        Console.Write($"Podaj {i} liczbę: ");
+        Console.Write($"Podaj {i++} liczbę: ");
         int a = int.Parse(Console.ReadLine());
         if (a == 0)
             break;
@@ -16,9 +16,9 @@ try
         throw new Exception();
 
     //Obliczenie min i max
-    int xmin = 0d;
-    int xmax = 0d;
-    for (int i = 0; i < tablica.Length; i++)
+    int xmin = 0;
+    int xmax = 0;
+    for (i = 0; i < tablica.Length; i++)
     {
         if (i == 0)
         {

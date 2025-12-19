@@ -1,0 +1,15 @@
+/root/Zadanie3/Zadanie3/obj/Debug/net10.0/Zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+/root/Zadanie3/Zadanie3/obj/Debug/net10.0/Zadanie3.AssemblyInfoInputs.cache
+/root/Zadanie3/Zadanie3/obj/Debug/net10.0/Zadanie3.AssemblyInfo.cs
+/root/Zadanie3/Zadanie3/obj/Debug/net10.0/Zadanie3.csproj.CoreCompileInputs.cache
+/root/Zadanie3/Zadanie3/obj/Debug/net10.0/Zadanie3.sourcelink.json
+/root/Zadanie3/Zadanie3/bin/Debug/net10.0/Zadanie3
+/root/Zadanie3/Zadanie3/bin/Debug/net10.0/Zadanie3.deps.json
+/root/Zadanie3/Zadanie3/bin/Debug/net10.0/Zadanie3.runtimeconfig.json
+/root/Zadanie3/Zadanie3/bin/Debug/net10.0/Zadanie3.dll
+/root/Zadanie3/Zadanie3/bin/Debug/net10.0/Zadanie3.pdb
+/root/Zadanie3/Zadanie3/obj/Debug/net10.0/Zadanie3.dll
+/root/Zadanie3/Zadanie3/obj/Debug/net10.0/refint/Zadanie3.dll
+/root/Zadanie3/Zadanie3/obj/Debug/net10.0/Zadanie3.pdb
+/root/Zadanie3/Zadanie3/obj/Debug/net10.0/Zadanie3.genruntimeconfig.cache
+/root/Zadanie3/Zadanie3/obj/Debug/net10.0/ref/Zadanie3.dll
