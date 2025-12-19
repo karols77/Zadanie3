@@ -1,8 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Numerics;
+
 Console.WriteLine("Podaj kolejno liczby całkowite i zakończ 0");
 try
 {
-    int[] tablica = new int[0];
+    List<int> tablica = new List<int>();
     int i = 1;
     while (true)
     {
@@ -10,15 +12,15 @@ try
         int a = int.Parse(Console.ReadLine());
         if (a == 0)
             break;
-        tablica.Append(a);
+        tablica.Add(a);
     }
-    if (tablica.Length == 0)
+    if (tablica.Count == 0)
         throw new Exception();
 
     //Obliczenie min i max
     int xmin = 0;
     int xmax = 0;
-    for (i = 0; i < tablica.Length; i++)
+    for (i = 0; i < tablica.Count; i++)
     {
         if (i == 0)
         {
